@@ -1,0 +1,37 @@
+2411 imagenes de validación
+
+1 epoca
+Porcentaje de acierto: 88.97 %
+Porcentaje de fallo: 11.03 %
+Acierto: 2145
+Fallo: 266
+
+5 epocas
+Porcentaje de acierto: 94.53 %
+Porcentaje de fallo: 5.47 %
+Acierto: 2279
+Fallo: 132
+
+30 epocas
+Porcentaje de acierto: 94.45 %
+Porcentaje de fallo: 5.55 %
+Acierto: 2277
+Fallo: 134
+
+700 epocas
+Porcentaje de acierto: 95.56 %
+Porcentaje de fallo: 4.44 %
+Acierto: 2304
+Fallo: 107
+
+1500 epocas
+Porcentaje de acierto: 97.14 %
+Porcentaje de fallo: 2.86
+Acierto: 2342
+Fallo: 69
+
+5000 epocas
+Porcentaje de acierto: 99.79 %
+Porcentaje de fallo: 0.21 %
+Acierto: 2406
+Fallo: 5
